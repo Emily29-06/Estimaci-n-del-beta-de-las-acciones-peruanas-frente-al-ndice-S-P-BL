@@ -1,0 +1,132 @@
+2026-10-23 13:36:29 | === INICIO 01_extraccion_api | ventana 2010-01-01 a 2025-12-31 === 
+2026-10-23 13:36:33 | ALICORC1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:36:36 | BACKUSI1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:36:39 | CVERDEC1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:36:42 | FERREYC1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:36:45 | UNACEMC1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:36:48 | VOLCABC1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:36:51 | INRETC1.LM | HTTP 200 | filas descargadas: 3329 
+2026-10-23 13:36:53 | CONTINC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:36:56 | CONTINC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:37:03 | CONTINC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:37:12 | CORAREI1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:37:14 | CASAGRC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:37:17 | CASAGRC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:37:21 | CASAGRC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:37:30 | ENGEPEC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:37:32 | ENGEPEC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:37:37 | ENGEPEC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:37:46 | MINSURI1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:37:49 | SCCO.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:37:52 | BAP.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:37:54 | PODERC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:37:57 | PODERC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:38:01 | PODERC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:38:14 | LUSURC1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:38:17 | EDELNOC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:38:19 | EDELNOC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:38:24 | EDELNOC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:38:33 | ENDISPC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:38:35 | ENDISPC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:38:40 | ENDISPC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:38:49 | CPACASC1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:38:51 | AENZAC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:38:53 | AENZAC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:38:58 | AENZAC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:39:07 | BVN.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:39:09 | BROCALC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:39:12 | BROCALC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:39:17 | BROCALC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:39:26 | HOCHSCC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:39:28 | HOCHSCC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:39:33 | HOCHSCC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:39:46 | MILPOC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:39:49 | MILPOC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:39:54 | MILPOC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:40:02 | TELEFBC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:40:05 | TELEFBC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:40:09 | TELEFBC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:40:19 | IFS.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:40:21 | AUSTRAC1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:40:24 | RELAPAC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:40:26 | RELAPAC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:40:31 | RELAPAC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:40:40 | ATACOBC1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:40:42 | POMALCC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:40:44 | POMALCC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:40:49 | POMALCC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:40:58 | GRAMONC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:41:05 | GRAMONC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:41:13 | GRAMONC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:41:22 | PARAMOC1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:41:25 | PARAMOC1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:41:29 | PARAMOC1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:41:38 | MINCORI1.LM | HTTP 404 | intento 1 fallido 
+2026-10-23 13:41:41 | MINCORI1.LM | HTTP 404 | intento 2 fallido 
+2026-10-23 13:41:45 | MINCORI1.LM | HTTP 404 | intento 3 fallido 
+2026-10-23 13:41:54 | SIDERC1.LM | HTTP 200 | filas descargadas: 4024 
+2026-10-23 13:41:59 | Guardado datos_crudos/datos_crudos_2024200518K.csv | filas: 71737 | símbolos con datos: 18 
+2026-10-23 13:42:00 | BCRP PD38026MD (Indicadores bursátiles - Índice General Bursátil BVL (índice)) | HTTP 200 | filas descargadas: 4174 
+2026-10-23 13:42:02 | BCRP PD04638PD (Tipo de cambio - TC Interbancario (S/ por US$) - Venta) | HTTP 200 | filas descargadas: 4174 
+2026-10-23 13:42:05 | Guardado datos_crudos/datos_crudos_bcrp_api_2024200518K.csv | filas: 8348 
+2026-10-23 13:42:05 | === FIN 01_extraccion_api === 
+2026-10-23 19:17:50 | === INICIO 02_scraping_web | serie PD38026MD === 
+2026-10-23 19:17:50 | robots.txt | HTTP 404 
+2026-10-23 19:17:53 | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/diarias/resultados/PD38026MD/html/2010-1-1/2025-12-31 | HTTP 200 
+2026-10-23 19:18:08 | === INICIO 02_scraping_web | serie PD38026MD === 
+2026-10-23 19:18:09 | robots.txt | HTTP 404 
+2026-10-23 19:18:11 | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/diarias/resultados/PD38026MD/html/2010-1-1/2025-12-31 | HTTP 200 
+2026-10-23 20:12:26 | === INICIO 02_scraping_web | serie PD38026MD === 
+2026-10-23 20:12:27 | robots.txt | HTTP 404 
+2026-10-23 20:12:32 | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/diarias/resultados/PD38026MD | HTTP 200 
+2026-10-24 12:16:47 | === INICIO 02_scraping_web | serie PD38026MD === 
+2026-10-24 12:16:48 | robots.txt | HTTP 404 
+2026-10-24 12:16:53 | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/diarias/resultados/PD38026MD | HTTP 200 
+2026-10-24 12:19:54 | === INICIO 02_scraping_web | serie PD38026MD === 
+2026-10-24 12:19:54 | robots.txt | HTTP 404 
+2026-10-24 12:19:58 | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/diarias/resultados/PD38026MD | HTTP 200 
+2026-10-24 12:25:51 | === INICIO 02_scraping_web | serie PD38026MD === 
+2026-10-24 12:25:51 | robots.txt | HTTP 404 
+2026-10-24 12:25:56 | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/diarias/resultados/PD38026MD | HTTP 200 
+2026-10-24 12:32:05 | === INICIO 02_scraping_web | serie PD38026MD === 
+2026-10-24 12:32:06 | robots.txt | HTTP 404 
+2026-10-24 12:32:10 | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/diarias/resultados/PD38026MD | HTTP 200 
+2026-10-24 12:32:50 | === INICIO 03_limpieza_datos === 
+2026-10-24 12:32:52 | Yahoo: filas válidas dentro de la ventana: 71567 | símbolos: 18 
+2026-10-24 12:32:52 | Muestra: 18 acciones: ATACOBC1.LM, AUSTRAC1.LM, LUSURC1.LM, SIDERC1.LM, BACKUSI1.LM, CORAREI1.LM, SCCO.LM, UNACEMC1.LM, CPACASC1.LM, IFS.LM, MINSURI1.LM, ALICORC1.LM, FERREYC1.LM, BAP.LM, BVN.LM, CVERDEC1.LM, VOLCABC1.LM, INRETC1.LM 
+2026-10-24 12:45:02 | === INICIO 02_scraping_web | serie PD38026MD === 
+2026-10-24 12:45:03 | robots.txt | HTTP 404 
+2026-10-24 12:45:07 | GET https://estadisticas.bcrp.gob.pe/estadisticas/series/diarias/resultados/PD38026MD | HTTP 200 
+2026-10-24 12:45:14 | Guardado datos_crudos/datos_crudos_bcrp_html_2024200518K.csv | filas rastreadas: 5429 
+2026-10-24 12:45:14 | === FIN 02_scraping_web === 
+2026-10-24 12:46:07 | === INICIO 03_limpieza_datos === 
+2026-10-24 12:46:09 | Yahoo: filas válidas dentro de la ventana: 71567 | símbolos: 18 
+2026-10-24 12:46:09 | Muestra: 18 acciones: ATACOBC1.LM, AUSTRAC1.LM, LUSURC1.LM, SIDERC1.LM, BACKUSI1.LM, CORAREI1.LM, SCCO.LM, UNACEMC1.LM, CPACASC1.LM, IFS.LM, MINSURI1.LM, ALICORC1.LM, FERREYC1.LM, BAP.LM, BVN.LM, CVERDEC1.LM, VOLCABC1.LM, INRETC1.LM 
+2026-10-24 15:25:06 | === INICIO 03_limpieza_datos === 
+2026-10-24 15:25:08 | Yahoo: filas válidas dentro de la ventana: 71567 | símbolos: 18 
+2026-10-24 15:25:08 | Muestra: 18 acciones: ATACOBC1.LM, AUSTRAC1.LM, LUSURC1.LM, SIDERC1.LM, BACKUSI1.LM, CORAREI1.LM, SCCO.LM, UNACEMC1.LM, CPACASC1.LM, IFS.LM, MINSURI1.LM, ALICORC1.LM, FERREYC1.LM, BAP.LM, BVN.LM, CVERDEC1.LM, VOLCABC1.LM, INRETC1.LM 
+2026-10-25 08:42:42 | === INICIO 03_limpieza_datos === 
+2026-10-25 08:42:45 | Yahoo: filas válidas dentro de la ventana: 71567 | símbolos: 18 
+2026-10-25 08:42:45 | Muestra: 18 acciones: ATACOBC1.LM, AUSTRAC1.LM, LUSURC1.LM, SIDERC1.LM, BACKUSI1.LM, CORAREI1.LM, SCCO.LM, UNACEMC1.LM, CPACASC1.LM, IFS.LM, MINSURI1.LM, ALICORC1.LM, FERREYC1.LM, BAP.LM, BVN.LM, CVERDEC1.LM, VOLCABC1.LM, INRETC1.LM 
+2026-10-25 09:27:05 | === INICIO 03_limpieza_datos === 
+2026-10-25 09:27:08 | Yahoo: filas válidas dentro de la ventana: 71567 | símbolos: 18 
+2026-10-25 09:27:08 | Muestra: 18 acciones: ATACOBC1.LM, AUSTRAC1.LM, LUSURC1.LM, SIDERC1.LM, BACKUSI1.LM, CORAREI1.LM, SCCO.LM, UNACEMC1.LM, CPACASC1.LM, IFS.LM, MINSURI1.LM, ALICORC1.LM, FERREYC1.LM, BAP.LM, BVN.LM, CVERDEC1.LM, VOLCABC1.LM, INRETC1.LM 
+2026-10-25 09:27:09 | BCRP API: fechas no interpretadas = 0 de 8348 
+2026-10-25 09:27:09 | BCRP API: índice 4107 días | tipo de cambio 3978 días 
+2026-10-25 09:27:10 | BCRP scraping: fechas no interpretadas = 0 de 5429 
+2026-10-25 09:27:10 | Validación índice API vs scraping: 3994/4107 coinciden (97.25 %) 
+2026-10-25 09:27:10 | Índice: 1 valor(es) atípico(s) revertido(s) puesto(s) en NA: 2024-06-21 
+2026-10-25 09:27:16 | Guardado datos_procesados/datos_procesados_2024200518K.csv | filas: 70721 | retornos válidos: 68252 
+2026-10-25 09:27:16 | SHA-256 de datos_procesados: 90d7ec827b9e1b6bc927819d835ef8b8cafab9c924523273a97780b511eaf08a 
+2026-10-25 09:27:16 | === FIN 03_limpieza_datos === 
+2026-10-25 09:58:08 | === INICIO 03_limpieza_datos === 
+2026-10-25 09:58:10 | Yahoo: filas válidas dentro de la ventana: 71567 | símbolos: 18 
+2026-10-25 09:58:10 | Muestra: 18 acciones: ATACOBC1.LM, AUSTRAC1.LM, LUSURC1.LM, SIDERC1.LM, BACKUSI1.LM, CORAREI1.LM, SCCO.LM, UNACEMC1.LM, CPACASC1.LM, IFS.LM, MINSURI1.LM, ALICORC1.LM, FERREYC1.LM, BAP.LM, BVN.LM, CVERDEC1.LM, VOLCABC1.LM, INRETC1.LM 
+2026-10-25 09:58:13 | BCRP API: fechas no interpretadas = 0 de 8348 
+2026-10-25 09:58:13 | BCRP API: índice 4107 días | tipo de cambio 3978 días 
+2026-10-25 09:58:14 | BCRP scraping: fechas no interpretadas = 0 de 5429 
+2026-10-25 09:58:14 | Validación índice API vs scraping: 3994/4107 coinciden (97.25 %) 
+2026-10-25 09:58:14 | Índice: 1 valor(es) atípico(s) revertido(s) puesto(s) en NA: 2024-06-21 
+2026-10-25 09:58:19 | Guardado datos_procesados/datos_procesados_2024200518K.csv | filas: 70721 | retornos válidos: 68252 
+2026-10-25 09:58:19 | SHA-256 de datos_procesados: 90d7ec827b9e1b6bc927819d835ef8b8cafab9c924523273a97780b511eaf08a 
+2026-10-25 09:58:19 | === FIN 03_limpieza_datos === 

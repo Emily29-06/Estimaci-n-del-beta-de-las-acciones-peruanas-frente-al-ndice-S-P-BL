@@ -1,0 +1,2 @@
+archivo: datos_procesados_2024200518K.csv
+sha256: 90d7ec827b9e1b6bc927819d835ef8b8cafab9c924523273a97780b511eaf08a
